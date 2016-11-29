@@ -10,11 +10,17 @@ TODO/ideas:
   exam question file-backend
   
     (add sub questions to be auto added)
-  saved/given(flag?) tests in seperate view\n
+  saved/given(flag?) tests in seperate view
+  
   test sheet generator (include saved scoring table)
   
+  
 GUI:
+
   Main (test/question overview)
+  
   Settings
+  
   LATeX interface to add questions to file-backend
+  
   Test generator
