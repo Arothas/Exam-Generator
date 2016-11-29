@@ -3,16 +3,16 @@ Click to generate exams for your Students.
 
 TODO/ideas:
 
-  GUI
+    GUI
   
-  Java-LATeX interpreter
+    Java-LATeX interpreter
   
-  exam question file-backend
+    exam question file-backend
   
     (add sub questions to be auto added)
-  saved/given(flag?) tests in seperate view
+    saved/given(flag?) tests in seperate view
   
-  test sheet generator (include saved scoring table)
+    test sheet generator (include saved scoring table)
   
   
 GUI:
