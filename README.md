@@ -10,7 +10,7 @@ TODO/ideas:
   exam question file-backend
   
     (add sub questions to be auto added)
-  saved/given(flag?) tests in seperate view
+  saved/given(flag?) tests in seperate view 
   test sheet generator (include saved scoring table)
   
 GUI:
