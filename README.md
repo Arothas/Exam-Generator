@@ -9,6 +9,7 @@ TODO/ideas:
     (add sub questions to be auto added)
     saved/given(flag?) tests in seperate view
     test sheet generator (include saved scoring table)
+    localisation(?)
   
 GUI:
 
